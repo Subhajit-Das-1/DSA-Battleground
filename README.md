@@ -4,7 +4,7 @@ This repository contains my **daily DSA practice** and **LeetCode problem soluti
  
 ![Language](https://img.shields.io/badge/Language-C++-blue)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-orange)
-![Practice](https://img.shields.io/badge/DSA-Daily%20Practice-success)
+![Practice](https://img.shields.io/badge/DSA-Daily%20Practice-success) 
 ## 🎯 Objective
 - Strengthen Data Structures & Algorithms
 - Maintain daily problem-solving consistency
