@@ -1,6 +1,6 @@
 # 🚀 DSA – LeetCode C++ Solutions 
 
-This repository contains my **daily DSA practice** and **LeetCode problem solutions** implemented in **C++**.  
+This repository contains my **daily DSA practice** and **LeetCode problem solutions** implemented in **C++**.    
  
 ![Language](https://img.shields.io/badge/Language-C++-blue)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-orange)
