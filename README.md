@@ -20,7 +20,7 @@ This repository contains my **daily DSA practice** and **LeetCode problem soluti
 - Bit Manipulation
 
 ## 🧠 Platform
-- LeetCode
+- LeetCode 
 
 ## 💻 Language
 - C++
